@@ -6,12 +6,12 @@ Prepare for Frontend Engineer interviews.
 
 ## Progress
 
-Solved Problems: 0
+Solved Problems: 7
 
 ## Patterns Learned
 
-- [ ] Hashing
-- [ ] Two Pointers
+- [6 ] Hashing
+- [3] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
 - [ ] Queue
